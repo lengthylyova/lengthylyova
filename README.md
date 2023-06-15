@@ -1,27 +1,17 @@
-<h3>Python Backend Developer</h3>
-<p>
-Working on <a href="https://github.com/Listen-Music-App">Listen-Music-App</a>
-<br>
-Resume: <a href="https://drive.google.com/drive/folders/112KEfmbG35emmyIejyKPZplOtOl8Neou?usp=sharing">GoogleDrive</a>
-</p>
+## Python Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
+<a href='https://github.com/Listen-Music-App' target="_blank"><img alt='Youtube Music' src='https://img.shields.io/badge/Current_Project-Listen-100000?style=for-the-badge&logo=Youtube Music&logoColor=2C2C2C&labelColor=CDCDCD&color=F1F1F1'/></a>
 
-<p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/lengthy24" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="len.gthy24" height="40" width="40" /></a>
-<a href="https://vk.com/len.gthy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/72px-VK_Compact_Logo_%282021-present%29.svg.png" alt="len.gthy24" height="40" width="40" /></a>
-<a href="https://instagram.com/len.gthy24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="len.gthy24" height="40" width="40" /></a>
-<p>Email: <b>lengthylyova@gmail.com</b></p>
-</p>
-</p>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)<br>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+<a href='https://drive.google.com/file/d/1zzD8Z0b4tFpnIxf1V_j1rYxf4cfsJvLE/view?usp=drive_link' target="_blank"><img alt='Google Drive' src='https://img.shields.io/badge/Resume-100000?style=for-the-badge&logo=Google Drive&logoColor=FFD70F&labelColor=4285f4&color=34a853'/></a>
+<a href='mailto:lengthylyova@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=4285f4&color=34a853'/></a><br>
+<a href='https://t.me/lengthy24' target="_blank"><img alt='telegram' src='https://img.shields.io/badge/telegram-100000?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=00689D&color=0088cc'/></a>
+<a href='https://www.instagram.com/len.gthy24/' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/instagram-100000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=405de6&color=f77737'/></a>
